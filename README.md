@@ -181,11 +181,3 @@ Once the SIEM is operational, continuously monitor it for false positives and ad
 #### **Monitoring Performance**:
 - Check index health and data ingestion rates via **Settings** → **Monitoring Console**.
 - Ensure that alerts are being triggered only for genuine threats by tuning search queries and thresholds.
-
----
-
-### **Conclusion**
-
-This project will help you build a comprehensive SIEM solution using Splunk, from log collection and analysis to creating alerts and visual dashboards. Once you are familiar with the basics, you can further expand this project by integrating advanced features like machine learning, anomaly detection, and custom threat detection logic.
-
-Good luck with your Splunk SIEM project! Let me know if you need help with any specific part.
